@@ -1,11 +1,12 @@
+## Feature Engineering
+![image](https://user-images.githubusercontent.com/71698417/114970181-dfbdec80-9eb4-11eb-85a9-2d0f7fdff469.png)
 
-![image](https://user-images.githubusercontent.com/71698417/114969028-7c32bf80-9eb2-11eb-8775-a9e631690704.png)
+## 재학대 재정의 필요성
+![image](https://user-images.githubusercontent.com/71698417/114970221-f82e0700-9eb4-11eb-886c-8e1a8c760879.png)
 
-![image](https://user-images.githubusercontent.com/71698417/114969045-8785eb00-9eb2-11eb-9599-214fc74a0335.png)
+![image](https://user-images.githubusercontent.com/71698417/114970238-011ed880-9eb5-11eb-8384-1c969a9f9ec4.png)
 
-![image](https://user-images.githubusercontent.com/71698417/114969064-910f5300-9eb2-11eb-945f-84a8b03102a2.png)
+![image](https://user-images.githubusercontent.com/71698417/114970253-0a0faa00-9eb5-11eb-83b8-47b95a03cfa4.png)
 
-![image](https://user-images.githubusercontent.com/71698417/114969075-99678e00-9eb2-11eb-8e17-550f1887026a.png)
-
-![image](https://user-images.githubusercontent.com/71698417/114969095-a4222300-9eb2-11eb-8db8-b4fb94d9948a.png)
-
+## 주요변수
+![image](https://user-images.githubusercontent.com/71698417/114970283-1e53a700-9eb5-11eb-81b5-7cb640d3ef7b.png)
