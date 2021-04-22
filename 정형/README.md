@@ -1,5 +1,5 @@
 ### Feature Engineering
-![image](https://user-images.githubusercontent.com/71698417/115679739-da1d4680-a38d-11eb-848b-187a1016885a.png)
+![image](https://user-images.githubusercontent.com/71698417/115680086-35e7cf80-a38e-11eb-967f-bf289e2f7079.png)
 
 ##### 신고자 유형구분
 -> 신고 의무자/ 비신고 의무자 변환
