@@ -7,7 +7,10 @@
 #### -> 약 10만 개의 실제 학대아동 데이터를 이용하여 분석을 진행. 
 ![image](https://user-images.githubusercontent.com/71698417/114969801-13e4dd80-9eb4-11eb-9533-360663de46ff.png)
 
-## EDA 
+#### 비정형 분석 flow chart
+![image](https://user-images.githubusercontent.com/71698417/115681784-cf63b100-a38f-11eb-9968-7c6338152e81.png)
+
+#### EDA 
 요약해서 첨부. (자세한건 코드참고)
 
 ![image](https://user-images.githubusercontent.com/71698417/114970021-89e94480-9eb4-11eb-934c-20d1455e9e36.png)
